@@ -5,9 +5,11 @@ Python Library for Looker 3.0 API
 Setup
 -----
 
-You can install this package by cloning this directory and running:
+You can install this package by cloning/downloading this directory and running:
 
    ```$ python setup.py install```
+   
+from a terminal within the directory
 
 
 Getting Looker API keys
